@@ -1,3 +1,3 @@
 # TestRepo
-Testing Repositoru
+Testing Repository
 This is the ...
